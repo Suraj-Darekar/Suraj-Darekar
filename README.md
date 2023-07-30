@@ -20,6 +20,7 @@
 
 
 ###
+
 <h2 align="left">Portfolio Projects</h2>
 <h3 align="left">Following are my projects in SQL, Python, PowerBi, and Tableau </h3>
 
