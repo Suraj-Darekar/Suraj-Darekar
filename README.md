@@ -14,7 +14,6 @@
 
 
 ###
-<p>My Website:<a href="surajdportfolio.wordpress.com"> Portfolio</a><p>
 
 <p>Check-out my:<a href="linkedin.com/in/surajd"> Linkedin Profile</a><p>
 
