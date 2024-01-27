@@ -21,7 +21,7 @@
 ###
 
 <h2 align="left">Portfolio Projects</h2>
-<h3 align="left">Following are my projects in SQL, Python, PowerBi, and Tableau </h3>
+<h3 align="left">Following are some of my projects in SQL, Python, PowerBi, and Tableau </h3>
 
 <p align="left"> 1. Marketing Funnel Analytics Project - Created using Python_Jupyter </p>
 <p> Data Analysis Project:  <a href="https://github.com/Suraj-Darekar/Marketing_Funnel_Analytics-Python"> Github_Link </p>
