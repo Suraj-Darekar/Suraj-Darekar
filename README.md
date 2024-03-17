@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I specialize in data modeling and analysis, adeptly transforming raw data into meaningful insights using tools like SQL and Python. Additionally, I possess a keen ability to create interactive dashboards using cutting-edge platforms such as Power BI and Tableau. I am thrilled to have you here, feel free to browse through the content and discover the world of data insights!</p>
+<p align="left">I bring over 3 years of experience in CRM automation and driving conversions, merging skills in HubSpot development, data engineering, API integration, Python scraping, and process automation. From customizing CRM interfaces to crafting captivating templates, to engineering data pipelines and seamlessly integrating APIs, I'm committed to revolutionizing businesses, automating processes, and fostering unprecedented growth!</p>
 
 
 ###
