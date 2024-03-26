@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I bring over 3 years of experience in CRM automation and driving conversions, merging skills in HubSpot development, data engineering, API integration, Python scraping, and process automation. From customizing CRM interfaces to crafting captivating templates, to engineering data pipelines and seamlessly integrating APIs, I'm committed to revolutionizing businesses, automating processes, and fostering unprecedented growth!</p>
+<p align="left">I bring over 3 years of experience in managing Data pipelines, CRM automation, merging skills in data engineering, API integration, HubSpot development, Python scraping, and process automation. From engineering data pipelines to customizing CRM interfaces, and seamlessly integrating APIs, I'm committed to revolutionizing businesses, automating processes, and fostering unprecedented growth!</p>
 
 
 ###
